@@ -1,0 +1,106 @@
+{
+  "sources": [
+    {
+      "title": "Alerte Google : (\"Réglementation thermique\" OR \"Rénovation performante\" OR \"Audit énergétique\" OR RE2020 OR \"Décret BACS\" OR \"Loi Climat et Résilience\" OR \"DPE\" OR \"Carnet d'information du logement\") site:legifrance.gouv.fr OR site:service-public.fr OR site:ecologie.gouv.fr",
+      "feedUrl": "https://www.google.fr/alerts/feeds/05126306801362129745/15497077643267380995",
+      "siteUrl": "https://www.google.com/alerts/feeds/05126306801362129745/15497077643267380995",
+      "articles": []
+    },
+    {
+      "title": "Alerte Google : (\"Aides financières rénovation\" OR \"MaPrimeRénov\" OR \"Certificats d'Économies d'Énergie\" OR \"CEE\" OR \"Éco-PTZ\" OR \"Prêt Avance Mutation\" OR \"Aides ANAH\") -devis -simul",
+      "feedUrl": "https://www.google.fr/alerts/feeds/05126306801362129745/18444530545673407549",
+      "siteUrl": "https://www.google.com/alerts/feeds/05126306801362129745/18444530545673407549",
+      "articles": [
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.capital.fr/economie-politique/maprimerenov-la-nouvelle-mesure-pour-eviter-les-fraudes-annoncee-par-le-ministre-du-logement-1523532&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw1RmzPmiOGuU86P2YJ0OnzS",
+          "author": null,
+          "description": "Le dispositif MaPrimeRénov' va pouvoir reprendre dès la promulgation du budget 2026. Il ne reste que quelques jours à patienter pour voir rouvrir ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.capital.fr/economie-politique/maprimerenov-la-nouvelle-mesure-pour-eviter-les-fraudes-annoncee-par-le-ministre-du-logement-1523532&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw1RmzPmiOGuU86P2YJ0OnzS",
+          "publishedOn": "2026-02-08T03:45:38.000Z",
+          "wordCount": 14,
+          "title": "<b>MaPrimeRénov</b>&#39; : la nouvelle mesure pour éviter les fraudes annoncée par le ministre du Logement",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.latribune.fr/article/entreprises-finance/energie-environnement/29423988844997/maprimerenov-il-faudra-maintenant-prendre-un-rendez-vous-personnalise-pour-les-renovations-dampleur&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw1o-ZP12pgP-yWnmNg-k3y1",
+          "author": null,
+          "description": "MaPrimeRénov' : il faudra maintenant prendre un « rendez-vous ... (CEE, des aides proposées par les fournisseurs d'énergie). À lire ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.latribune.fr/article/entreprises-finance/energie-environnement/29423988844997/maprimerenov-il-faudra-maintenant-prendre-un-rendez-vous-personnalise-pour-les-renovations-dampleur&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw1o-ZP12pgP-yWnmNg-k3y1",
+          "publishedOn": "2026-02-08T02:24:12.000Z",
+          "wordCount": 14,
+          "title": "<b>MaPrimeRénov</b>&#39; : il faudra maintenant prendre un « rendez-vous personnalisé - La Tribune",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.enquete-debat.fr/aides-et-allocations/apres-des-semaines-dattente-maprimerenov-sapprete-a-revenir-pour-tous-les-foyers/&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw3KDO30_HGnXOW5JyQWmXGu",
+          "author": null,
+          "description": "À noter que le recours accru aux certificats d'économie d'énergie (CEE) contribue à optimiser le financement du dispositif, en mobilisant les ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.enquete-debat.fr/aides-et-allocations/apres-des-semaines-dattente-maprimerenov-sapprete-a-revenir-pour-tous-les-foyers/&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw3KDO30_HGnXOW5JyQWmXGu",
+          "publishedOn": "2026-02-08T02:19:04.000Z",
+          "wordCount": 14,
+          "title": "Après des semaines d&#39;attente, <b>MaPrimeRénov</b>&#39; s&#39;apprête à revenir pour tous les foyers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.jeanmarcmorandini.com/article-632131-audiences-prime-veritable-rouleau-compresseur-la-ceremonie-d-ouverture-des-jo-d-hiver-sur-france-2-ecrase-tout-sur-son-passage-a-plus-de-6-millions-de-telespectateurs.html&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw3IzCQIbDNJSyyPTIcdGabq",
+          "author": null,
+          "description": "Le dispositif d'aides à la rénovation énergétique MaPrimeRénov', suspendu... EN DIRECT - Isère : Une explosion après un jet de grenade dans un ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jeanmarcmorandini.com/article-632131-audiences-prime-veritable-rouleau-compresseur-la-ceremonie-d-ouverture-des-jo-d-hiver-sur-france-2-ecrase-tout-sur-son-passage-a-plus-de-6-millions-de-telespectateurs.html&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw3IzCQIbDNJSyyPTIcdGabq",
+          "publishedOn": "2026-02-08T00:21:58.000Z",
+          "wordCount": 14,
+          "title": "Audiences Prime : Véritable rouleau compresseur, la &quot;Cérémonie d&#39;ouverture des JO d&#39;hiver ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.lanouvellerepublique.fr/loir-et-cher/commune/cour-cheverny/la-salle-des-fetes-de-cour-cheverny-bientot-rebaptisee-1770462960&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw02GYtZMFZ11F7RgH31A0Am",
+          "author": null,
+          "description": "Budget. · Certificats d'économie d'énergie (CEE). · Garantie emprunts. · Logement communal. · Association Loisirs et détente. · Création d'emplois non ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.lanouvellerepublique.fr/loir-et-cher/commune/cour-cheverny/la-salle-des-fetes-de-cour-cheverny-bientot-rebaptisee-1770462960&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw02GYtZMFZ11F7RgH31A0Am",
+          "publishedOn": "2026-02-07T23:58:09.000Z",
+          "wordCount": 14,
+          "title": "La salle des fêtes de Cour-Cheverny bientôt rebaptisée - La Nouvelle République",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.presse-evasion.fr/article/revue-presse-07-02-2026&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw2ZpCnWZvD6_zpp7BM943F0",
+          "author": null,
+          "description": "La réouverture de MaPrimeRénov' est imminente après plusieurs mois de restrictions. Cela offre une nouvelle opportunité pour les entreprises du ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.presse-evasion.fr/article/revue-presse-07-02-2026&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw2ZpCnWZvD6_zpp7BM943F0",
+          "publishedOn": "2026-02-07T19:31:15.000Z",
+          "wordCount": 14,
+          "title": "Les géants de la tech investissent massivement dans l&#39;IA : 650 milliards de dollars en 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.24matins.fr/reouverture-imminente-de-maprimerenov-pour-lensemble-des-demandeurs-1402617&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw1ev-G35bCYxwraLq6dxK8C",
+          "author": null,
+          "description": "MaPrimeRénov' rouvre pour tous dès promulgation du budget. ... Toutefois, grâce à une implication accrue des certificats d'économie d'énergie (CEE) ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.24matins.fr/reouverture-imminente-de-maprimerenov-pour-lensemble-des-demandeurs-1402617&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw1ev-G35bCYxwraLq6dxK8C",
+          "publishedOn": "2026-02-07T19:01:38.000Z",
+          "wordCount": 14,
+          "title": "Réouverture imminente de <b>MaPrimeRénov</b>&#39; pour l&#39;ensemble des demandeurs - 24matins",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Alerte Google : (\"Rénovation thermique\" OR \"VMC Double Flux\" OR \"Pompe à chaleur hybride\" OR \"Géothermie\" OR \"Gestion Technique du Bâtiment\" OR \"Matériaux bio-sourcés\" OR \"Ouate de cellulose\" OR \"Béton de chanvre\" OR \"Fibre de bois\") -promo -soldes",
+      "feedUrl": "https://www.google.fr/alerts/feeds/05126306801362129745/10711891804109961240",
+      "siteUrl": "https://www.google.com/alerts/feeds/05126306801362129745/10711891804109961240",
+      "articles": []
+    },
+    {
+      "title": "Alerte Google : (\"Labels éco-responsables\" OR \"Bâtiment durable\" OR \"Certification énergétique\" OR \"RGE\" OR PassivHaus OR \"Label BBC Rénovation\" OR \"NF Habitat HQE\")",
+      "feedUrl": "https://www.google.fr/alerts/feeds/05126306801362129745/10711891804109960602",
+      "siteUrl": "https://www.google.com/alerts/feeds/05126306801362129745/10711891804109960602",
+      "articles": []
+    },
+    {
+      "title": "Alerte Google : (\"Fiscalité verte\" OR \"Déficit foncier\" OR \"TVA 5.5% rénovation\" OR \"Loi Denormandie\" OR \"Exonération taxe foncière\" OR \"Décret Tertiaire\") site:impots.gouv.fr OR site:economie.gouv.fr",
+      "feedUrl": "https://www.google.fr/alerts/feeds/05126306801362129745/14804311893294827538",
+      "siteUrl": "https://www.google.com/alerts/feeds/05126306801362129745/14804311893294827538",
+      "articles": []
+    }
+  ],
+  "cliVersion": "1.15.1"
+}
