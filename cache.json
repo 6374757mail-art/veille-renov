@@ -1,105 +1,431 @@
 {
   "sources": [
     {
-      "title": "Alerte Google : (\"Réglementation thermique\" OR \"Rénovation performante\" OR \"Audit énergétique\" OR RE2020 OR \"Décret BACS\" OR \"Loi Climat et Résilience\" OR \"DPE\" OR \"Carnet d'information du logement\") site:legifrance.gouv.fr OR site:service-public.fr OR site:ecologie.gouv.fr",
-      "feedUrl": "https://www.google.fr/alerts/feeds/05126306801362129745/15497077643267380995",
-      "siteUrl": "https://www.google.com/alerts/feeds/05126306801362129745/15497077643267380995",
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": []
     },
     {
-      "title": "Alerte Google : (\"Aides financières rénovation\" OR \"MaPrimeRénov\" OR \"Certificats d'Économies d'Énergie\" OR \"CEE\" OR \"Éco-PTZ\" OR \"Prêt Avance Mutation\" OR \"Aides ANAH\") -devis -simul",
-      "feedUrl": "https://www.google.fr/alerts/feeds/05126306801362129745/18444530545673407549",
-      "siteUrl": "https://www.google.com/alerts/feeds/05126306801362129745/18444530545673407549",
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
       "articles": [
         {
-          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.capital.fr/economie-politique/maprimerenov-la-nouvelle-mesure-pour-eviter-les-fraudes-annoncee-par-le-ministre-du-logement-1523532&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw1RmzPmiOGuU86P2YJ0OnzS",
-          "author": null,
-          "description": "Le dispositif MaPrimeRénov' va pouvoir reprendre dès la promulgation du budget 2026. Il ne reste que quelques jours à patienter pour voir rouvrir ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.capital.fr/economie-politique/maprimerenov-la-nouvelle-mesure-pour-eviter-les-fraudes-annoncee-par-le-ministre-du-logement-1523532&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw1RmzPmiOGuU86P2YJ0OnzS",
-          "publishedOn": "2026-02-08T03:45:38.000Z",
-          "wordCount": 14,
-          "title": "<b>MaPrimeRénov</b>&#39; : la nouvelle mesure pour éviter les fraudes annoncée par le ministre du Logement",
-          "imageUrl": null
+          "id": "https://css-tricks.com/?p=391781",
+          "author": "Preethi",
+          "description": "CSS-only bar charts are one of those things we've tackled a bunch of times in different ways. But how can modern CSS features finally make it not only trivial, but fun?\nCSS Bar Charts Using Modern Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-bar-charts-using-modern-functions/",
+          "publishedOn": "2026-02-05T15:13:14.000Z",
+          "wordCount": 1684,
+          "title": "CSS Bar Charts Using Modern Functions",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/bar-chart-horizontal.webp"
         },
         {
-          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.latribune.fr/article/entreprises-finance/energie-environnement/29423988844997/maprimerenov-il-faudra-maintenant-prendre-un-rendez-vous-personnalise-pour-les-renovations-dampleur&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw1o-ZP12pgP-yWnmNg-k3y1",
-          "author": null,
-          "description": "MaPrimeRénov' : il faudra maintenant prendre un « rendez-vous ... (CEE, des aides proposées par les fournisseurs d'énergie). À lire ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.latribune.fr/article/entreprises-finance/energie-environnement/29423988844997/maprimerenov-il-faudra-maintenant-prendre-un-rendez-vous-personnalise-pour-les-renovations-dampleur&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw1o-ZP12pgP-yWnmNg-k3y1",
-          "publishedOn": "2026-02-08T02:24:12.000Z",
-          "wordCount": 14,
-          "title": "<b>MaPrimeRénov</b>&#39; : il faudra maintenant prendre un « rendez-vous personnalisé - La Tribune",
-          "imageUrl": null
+          "id": "https://css-tricks.com/?p=390379",
+          "author": "Zell Liew",
+          "description": "You’d think that publishing a VS Code extension is an easy process, but it’s not. You have to publish your theme in at least two places.\nNo Hassle Visual Code Theming: Publishing an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/no-hassle-visual-code-theming-publishing-an-extension/",
+          "publishedOn": "2026-02-03T15:54:59.000Z",
+          "wordCount": 2193,
+          "title": "No Hassle Visual Code Theming: Publishing an Extension",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/vs-code-highlight.jpg"
         },
         {
-          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.enquete-debat.fr/aides-et-allocations/apres-des-semaines-dattente-maprimerenov-sapprete-a-revenir-pour-tous-les-foyers/&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw3KDO30_HGnXOW5JyQWmXGu",
-          "author": null,
-          "description": "À noter que le recours accru aux certificats d'économie d'énergie (CEE) contribue à optimiser le financement du dispositif, en mobilisant les ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.enquete-debat.fr/aides-et-allocations/apres-des-semaines-dattente-maprimerenov-sapprete-a-revenir-pour-tous-les-foyers/&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw3KDO30_HGnXOW5JyQWmXGu",
-          "publishedOn": "2026-02-08T02:19:04.000Z",
-          "wordCount": 14,
-          "title": "Après des semaines d&#39;attente, <b>MaPrimeRénov</b>&#39; s&#39;apprête à revenir pour tous les foyers",
-          "imageUrl": null
+          "id": "https://css-tricks.com/?p=390341",
+          "author": "Zell Liew",
+          "description": "I've always thought that creating a VS Code theme was a lot of work. But lo and behold, it took less than six hours to get it working, then a day or two to polish up my final tweaks.\nNo-Hassle Visual Studio Code Theming: Building an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/no-hassle-visual-studio-code-theming-building-an-extension/",
+          "publishedOn": "2026-02-02T14:51:01.000Z",
+          "wordCount": 3014,
+          "title": "No-Hassle Visual Studio Code Theming: Building an Extension",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/11/quick-test.mp4",
+            "length": "6094355",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/vs-code-highlight.jpg"
         },
         {
-          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.jeanmarcmorandini.com/article-632131-audiences-prime-veritable-rouleau-compresseur-la-ceremonie-d-ouverture-des-jo-d-hiver-sur-france-2-ecrase-tout-sur-son-passage-a-plus-de-6-millions-de-telespectateurs.html&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw3IzCQIbDNJSyyPTIcdGabq",
-          "author": null,
-          "description": "Le dispositif d'aides à la rénovation énergétique MaPrimeRénov', suspendu... EN DIRECT - Isère : Une explosion après un jet de grenade dans un ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jeanmarcmorandini.com/article-632131-audiences-prime-veritable-rouleau-compresseur-la-ceremonie-d-ouverture-des-jo-d-hiver-sur-france-2-ecrase-tout-sur-son-passage-a-plus-de-6-millions-de-telespectateurs.html&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw3IzCQIbDNJSyyPTIcdGabq",
-          "publishedOn": "2026-02-08T00:21:58.000Z",
-          "wordCount": 14,
-          "title": "Audiences Prime : Véritable rouleau compresseur, la &quot;Cérémonie d&#39;ouverture des JO d&#39;hiver ...",
-          "imageUrl": null
+          "id": "https://css-tricks.com/?p=391967",
+          "author": "Daniel Schwarz",
+          "description": "Neither Chrome, Safari, nor Firefox have shipped new features in the last couple of weeks, but fear not because leading this issue of What’s !important is some of the web development industry’s best educators with, frankly, some killer content.\nWhat’s !important #4: Videos & View Transitions, Named Media Queries, How Browsers Work, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/whats-important-4/",
+          "publishedOn": "2026-01-30T15:00:26.000Z",
+          "wordCount": 1944,
+          "title": "What’s !important #4: Videos & View Transitions, Named Media Queries, How Browsers Work, and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/wi4.png"
         },
         {
-          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.lanouvellerepublique.fr/loir-et-cher/commune/cour-cheverny/la-salle-des-fetes-de-cour-cheverny-bientot-rebaptisee-1770462960&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw02GYtZMFZ11F7RgH31A0Am",
-          "author": null,
-          "description": "Budget. · Certificats d'économie d'énergie (CEE). · Garantie emprunts. · Logement communal. · Association Loisirs et détente. · Création d'emplois non ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.lanouvellerepublique.fr/loir-et-cher/commune/cour-cheverny/la-salle-des-fetes-de-cour-cheverny-bientot-rebaptisee-1770462960&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw02GYtZMFZ11F7RgH31A0Am",
-          "publishedOn": "2026-02-07T23:58:09.000Z",
-          "wordCount": 14,
-          "title": "La salle des fêtes de Cour-Cheverny bientôt rebaptisée - La Nouvelle République",
-          "imageUrl": null
+          "id": "https://css-tricks.com/?p=391705",
+          "author": "Daniel Schwarz",
+          "description": "The new ::search-text pseudo (Chrome 144) matches are yellow while the current target (::search-text:current) is orange, but ::search-text enables us to change that.\nStyling ::search-text and Other Highlight-y Pseudo-Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-to-style-the-new-search-text-and-other-highlight-pseudo-elements/",
+          "publishedOn": "2026-01-28T15:08:04.000Z",
+          "wordCount": 2103,
+          "title": "Styling ::search-text and Other Highlight-y Pseudo-Elements",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-21-at-10.28.07-AM.mov",
+            "length": "6902193",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/search-text-pseudo-example.webp"
         },
         {
-          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.presse-evasion.fr/article/revue-presse-07-02-2026&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw2ZpCnWZvD6_zpp7BM943F0",
-          "author": null,
-          "description": "La réouverture de MaPrimeRénov' est imminente après plusieurs mois de restrictions. Cela offre une nouvelle opportunité pour les entreprises du ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.presse-evasion.fr/article/revue-presse-07-02-2026&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw2ZpCnWZvD6_zpp7BM943F0",
-          "publishedOn": "2026-02-07T19:31:15.000Z",
-          "wordCount": 14,
-          "title": "Les géants de la tech investissent massivement dans l&#39;IA : 650 milliards de dollars en 2026",
-          "imageUrl": null
+          "id": "https://css-tricks.com/?p=391920",
+          "author": "Geoff Graham",
+          "description": "Stu Robson's ReliCSS (clever name!) tool can excavate outdated CSS in your codebase that have modern CSS solutions.\nReliCSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/relicss/",
+          "publishedOn": "2026-01-28T13:25:00.000Z",
+          "wordCount": 1308,
+          "title": "ReliCSS",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/relicss-audit.webp"
         },
         {
-          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.24matins.fr/reouverture-imminente-de-maprimerenov-pour-lensemble-des-demandeurs-1402617&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw1ev-G35bCYxwraLq6dxK8C",
-          "author": null,
-          "description": "MaPrimeRénov' rouvre pour tous dès promulgation du budget. ... Toutefois, grâce à une implication accrue des certificats d'économie d'énergie (CEE) ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.24matins.fr/reouverture-imminente-de-maprimerenov-pour-lensemble-des-demandeurs-1402617&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw1ev-G35bCYxwraLq6dxK8C",
-          "publishedOn": "2026-02-07T19:01:38.000Z",
-          "wordCount": 14,
-          "title": "Réouverture imminente de <b>MaPrimeRénov</b>&#39; pour l&#39;ensemble des demandeurs - 24matins",
-          "imageUrl": null
+          "id": "https://css-tricks.com/?p=388430",
+          "author": "Zell Liew",
+          "description": "Accessibility advice around modals have commonly taught us to trap focus within the modal. Upon further research, it seems like we no longer need to trap focus within the <dialog> (even in modal mode).\nThere is No Need to Trap Focus on a Dialog Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/there-is-no-need-to-trap-focus-on-a-dialog-element/",
+          "publishedOn": "2026-01-26T15:02:27.000Z",
+          "wordCount": 2626,
+          "title": "There is No Need to Trap Focus on a Dialog Element",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/04/tab-key.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=391573",
+          "author": "Temani Afif",
+          "description": "A while back, Temani tacked a repeating grid of hexagon shapes. Well, he's updated it with modern CSS features that result in fewer magic numbers. And it's impressive!\nResponsive Hexagon Grid Using Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/responsive-hexagon-grid-using-modern-css/",
+          "publishedOn": "2026-01-23T14:39:56.000Z",
+          "wordCount": 3159,
+          "title": "Responsive Hexagon Grid Using Modern CSS",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/hexagon-grid.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=391757",
+          "author": "Geoff Graham",
+          "description": "The @custom-media at-rule has landed in Firefox Nightly! I couldn’t find it in the release notes but Adam Argyle’s on the beat noting that it’s behind a flag for now.\nLook for layout.css.custom-media.enabled\nI often forget the exact name of …\nOpen Props @custom-media Recipes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/open-props-custom-media-recipes/",
+          "publishedOn": "2026-01-23T13:00:00.000Z",
+          "wordCount": 1274,
+          "title": "Open Props @custom-media Recipes",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/open-props-custom-media-queries.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=391390",
+          "author": "Hashim Quraishi",
+          "description": "Semantic HTML does a lot more accessibility work than we usually give it credit for already — and ARIA is simple to abuse when we use it both as a shortcut and as a supplement.\nI Learned The First Rule of ARIA the Hard Way originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/i-learned-the-first-rule-of-aria-the-hard-way/",
+          "publishedOn": "2026-01-21T17:51:30.000Z",
+          "wordCount": 2451,
+          "title": "I Learned The First Rule of ARIA the Hard Way",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/08/accessibility-a11y.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=391564",
+          "author": "Geoff Graham",
+          "description": "I love me some good web research reports. I’m a sucker for them. HTTP Archive’s Web Almanac is one report I look forward to every year, and I know I’m not alone there. It’s one of those highly-anticipated publications on …\nHTTP Archive 2025 Web Almanac originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/http-archive-2025-web-almanac/",
+          "publishedOn": "2026-01-16T17:30:43.000Z",
+          "wordCount": 1410,
+          "title": "HTTP Archive 2025 Web Almanac",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/http-archive-2025.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=391529",
+          "author": "Geoff Graham",
+          "description": "If you’re reading this, chances are you already have some sort of way that you’re following when we publish new content, whether that’s RSS, Bluesky, Mastodon, or what have you. But I know a lot of folks …\n“I Heart CSS” DailyDev Squad originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/i-heart-css-dailydev-squad/",
+          "publishedOn": "2026-01-16T14:46:24.000Z",
+          "wordCount": 1007,
+          "title": "“I Heart CSS” DailyDev Squad",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/i-heart-css.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=391542",
+          "author": "Daniel Schwarz",
+          "description": "The developer community hasn’t wasted any time kicking off 2026 with some really great articles, demos, and insights. Firefox 147 and Chrome 144 also shipped, and while they’re not jam-packed with features, the releases are still pretty exciting for what’s normally a slow time of year, so without further ado, here’s what’s important from the last couple of weeks (or should I say the first couple of weeks, of 2026?)…\nWhat’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/whats-important-3/",
+          "publishedOn": "2026-01-15T15:08:58.000Z",
+          "wordCount": 2047,
+          "title": "What’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/wi3.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=391494",
+          "author": "Geoff Graham",
+          "description": "Super cool new CodePen feature alert! You've probably seen a bunch of \"interactive\" demos that let you changed values on the fly from a UI panel embedded directly in the demo.\nPlaying With CodePen slideVars originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/playing-with-codepen-slidevars/",
+          "publishedOn": "2026-01-14T14:59:07.000Z",
+          "wordCount": 1521,
+          "title": "Playing With CodePen slideVars",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/codepen-slidevars.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=391345",
+          "author": "Lee Meyer",
+          "description": "Lee Meyer recently spoke at Web Directions Summit 2025. This is his experience, not only speaking at the event, but experiencing the event through the lens of anxiety and imposter syndrome.\nPostcard From Web Directions Dev Summit, 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/postcard-from-web-directions-dev-summit-2025/",
+          "publishedOn": "2026-01-12T14:54:32.000Z",
+          "wordCount": 4451,
+          "title": "Postcard From Web Directions Dev Summit, 2025",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/01/lee-meyer-web-directions-demo.mp4",
+            "length": "779557",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/lee-web-directions.jpg"
         }
       ]
     },
     {
-      "title": "Alerte Google : (\"Rénovation thermique\" OR \"VMC Double Flux\" OR \"Pompe à chaleur hybride\" OR \"Géothermie\" OR \"Gestion Technique du Bâtiment\" OR \"Matériaux bio-sourcés\" OR \"Ouate de cellulose\" OR \"Béton de chanvre\" OR \"Fibre de bois\") -promo -soldes",
-      "feedUrl": "https://www.google.fr/alerts/feeds/05126306801362129745/10711891804109961240",
-      "siteUrl": "https://www.google.com/alerts/feeds/05126306801362129745/10711891804109961240",
-      "articles": []
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
+      "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
+          "author": "hello@smashingmagazine.com (Blake Lundquist)",
+          "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
+          "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
+          "publishedOn": "2026-02-05T08:00:00.000Z",
+          "wordCount": 4496,
+          "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Combobox vs. Multi-Select vs. Listbox vs. Dual Listbox? How they are different, what purpose they serve, and how to choose the right one. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
+          "link": "https://smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/",
+          "publishedOn": "2026-02-03T10:00:00.000Z",
+          "wordCount": 3616,
+          "title": "Combobox vs. Multiselect vs. Listbox: How To Choose The Right One",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/combobox-vs-multiselect-vs-listbox/combobox-vs-multiselect-vs-listbox.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/combobox-vs-multiselect-vs-listbox/combobox-vs-multiselect-vs-listbox.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
+          "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
+          "publishedOn": "2026-01-31T09:00:00.000Z",
+          "wordCount": 4598,
+          "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
+          "author": "hello@smashingmagazine.com (Stefan Kaltenegger)",
+          "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.",
+          "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
+          "publishedOn": "2026-01-30T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
+          "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
+          "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
+          "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
+          "publishedOn": "2026-01-27T10:00:00.000Z",
+          "wordCount": 5808,
+          "title": "Unstacking CSS Stacking Contexts",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.",
+          "link": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
+          "publishedOn": "2026-01-22T13:00:00.000Z",
+          "wordCount": 6457,
+          "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/beyond-generative-rise-agentic-ai-user-centric-design/beyond-generative-rise-agentic-ai-user-centric-design.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/beyond-generative-rise-agentic-ai-user-centric-design/beyond-generative-rise-agentic-ai-user-centric-design.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
+          "author": "hello@smashingmagazine.com (Amit Sheen)",
+          "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
+          "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
+          "publishedOn": "2026-01-20T10:00:00.000Z",
+          "wordCount": 5106,
+          "title": "Rethinking “Pixel Perfect” Web Design",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.",
+          "link": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
+          "publishedOn": "2026-01-14T10:00:00.000Z",
+          "wordCount": 5366,
+          "title": "Smashing Animations Part 8: Theming Animations Using CSS Relative Colour",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-animations-part-8-css-relative-colour/smashing-animations-part-8-css-relative-colour.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-8-css-relative-colour/smashing-animations-part-8-css-relative-colour.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/01/ux-product-designer-career-paths/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "How to shape your career path for 2026, with decision trees for designers and a UX skills self-assessment matrix. The only limits for tomorrow are the doubts we have today. Brought to you by Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.",
+          "link": "https://smashingmagazine.com/2026/01/ux-product-designer-career-paths/",
+          "publishedOn": "2026-01-12T10:00:00.000Z",
+          "wordCount": 4382,
+          "title": "UX And Product Designer’s Career Paths In 2026",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/product-designer-career-paths/ux-product-designer-career-paths.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/product-designer-career-paths/ux-product-designer-career-paths.jpg"
+        }
+      ]
     },
     {
-      "title": "Alerte Google : (\"Labels éco-responsables\" OR \"Bâtiment durable\" OR \"Certification énergétique\" OR \"RGE\" OR PassivHaus OR \"Label BBC Rénovation\" OR \"NF Habitat HQE\")",
-      "feedUrl": "https://www.google.fr/alerts/feeds/05126306801362129745/10711891804109960602",
-      "siteUrl": "https://www.google.com/alerts/feeds/05126306801362129745/10711891804109960602",
-      "articles": []
-    },
-    {
-      "title": "Alerte Google : (\"Fiscalité verte\" OR \"Déficit foncier\" OR \"TVA 5.5% rénovation\" OR \"Loi Denormandie\" OR \"Exonération taxe foncière\" OR \"Décret Tertiaire\") site:impots.gouv.fr OR site:economie.gouv.fr",
-      "feedUrl": "https://www.google.fr/alerts/feeds/05126306801362129745/14804311893294827538",
-      "siteUrl": "https://www.google.com/alerts/feeds/05126306801362129745/14804311893294827538",
-      "articles": []
+      "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news/",
+      "articles": [
+        {
+          "id": "698614754058fffacf721cc8",
+          "author": "Abdul Talha",
+          "description": "Hiring the right candidate starts with one time-consuming task: screening résumés. If you’ve ever posted a job opening, you know the pain of hundreds of applications in your inbox, leaving you to spend hours reviewing each résumé manually. In this ar...",
+          "link": "https://www.freecodecamp.org/news/python-resume-screening-system/",
+          "publishedOn": "2026-02-06T16:19:01.000Z",
+          "wordCount": 2389,
+          "title": "How to Build a Résumé Screening System Using Python and Multiprocessing",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770331777028/1ac80e66-cf22-4160-8812-ea917384cd3f.png"
+        },
+        {
+          "id": "69851e61087459735f840552",
+          "author": "Manish Shivanandhan",
+          "description": "Modern applications rarely live in isolation. They move between laptops, staging servers, and production environments. Each environment has its own quirks, missing libraries, or slightly different configurations. This is where many “works on my machi...",
+          "link": "https://www.freecodecamp.org/news/how-to-dockerize-your-application-and-deploy-it/",
+          "publishedOn": "2026-02-05T22:49:05.000Z",
+          "wordCount": 2158,
+          "title": "How to Dockerize Your Application and Deploy It",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770331734345/d53fdc31-231b-4194-96e2-efcec036cfb2.png"
+        },
+        {
+          "id": "69851d7be613661950e00d8f",
+          "author": "Sameer Shukla",
+          "description": "In the world of big data, performance isn't just about bigger clusters – it's about smarter code. Spark is deceptively simple to write but notoriously difficult to optimize, because what you write isn't what Spark executes. Between your transformatio...",
+          "link": "https://www.freecodecamp.org/news/how-to-optimize-pyspark-jobs-handbook/",
+          "publishedOn": "2026-02-05T22:45:15.000Z",
+          "wordCount": 14936,
+          "title": "How to Optimize PySpark Jobs: Real-World Scenarios for Understanding Logical Plans",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770331493095/d569e168-d3ba-40e0-a500-7f682bbef693.png"
+        },
+        {
+          "id": "69851c4ec8140c13f9fa09c8",
+          "author": "David Aniebo",
+          "description": "Feature flags are powerful tools that let you control which features are visible to users without deploying new code. They enable gradual rollouts, A/B testing, and instant feature toggles, which are all essential for modern software development. In ...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-feature-flag-system-with-nextjs-and-supabase/",
+          "publishedOn": "2026-02-05T22:40:14.000Z",
+          "wordCount": 7304,
+          "title": "How to Build a Production-Ready Feature Flag System with Next.js and Supabase",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770312675718/c462d3b5-5369-45e0-ad47-c91b441fe96f.png"
+        },
+        {
+          "id": "6984d41160b1e5f9aeccaa9e",
+          "author": "Oluwadamisi Samuel",
+          "description": "Your UI doesn’t “randomly” refuse to update. In most cases, it’s rendering cached data, which is data that was saved somewhere so the app doesn’t have to do the same work again. Caching is great for performance, but it becomes a pain when you don’t r...",
+          "link": "https://www.freecodecamp.org/news/why-your-ui-wont-update-debugging-stale-data-and-caching-in-react-apps/",
+          "publishedOn": "2026-02-05T17:32:01.000Z",
+          "wordCount": 3192,
+          "title": "Why Your UI Won’t Update: Debugging Stale Data and Caching in React Apps",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770312709391/8442f6df-1133-47f7-a035-02c958145811.png"
+        },
+        {
+          "id": "6984cf23a3b8d53c075bbaa5",
+          "author": "Beau Carnes",
+          "description": "Harvard University's CS50 is one of the most popular beginner computer science courses in the world. We just released the entire 25-hour CS50 course on the freeCodeCamp.org YouTube channel. This is the most recent version updated for 2026, with an al...",
+          "link": "https://www.freecodecamp.org/news/harvard-cs50-2026-free-computer-science-university-course/",
+          "publishedOn": "2026-02-05T17:10:59.000Z",
+          "wordCount": 1087,
+          "title": "Harvard CS50 2026 – Free Computer Science University Course",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770311427284/e63d5d11-e815-41e2-88c5-50c9ac969098.jpeg"
+        },
+        {
+          "id": "6984ca1c0d3cc85f508db81e",
+          "author": "Beau Carnes",
+          "description": "The AI landscape has shifted in 2026 from passive chatbots to proactive autonomous agents, with OpenClaw leading the charge as the most viral open-source project of the year. We just posted a comprehensive introduction to OpenClaw on the freeCodeCamp...",
+          "link": "https://www.freecodecamp.org/news/openclaw-full-tutorial-for-beginners/",
+          "publishedOn": "2026-02-05T16:49:32.000Z",
+          "wordCount": 1092,
+          "title": "OpenClaw Full Tutorial for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770310153117/f090efe2-ee69-44b6-890d-9158c914c389.jpeg"
+        },
+        {
+          "id": "6983ae630a7fef9ac2d90313",
+          "author": "Nikheel Vishwas Savant",
+          "description": "Ah, Bluetooth. The technology we all love to hate. It's like that one friend who's always just about to connect, but then... doesn't. For years, Android developers have been locked in a dramatic, often tragic, romance with Bluetooth. We've wrestled w...",
+          "link": "https://www.freecodecamp.org/news/how-aosp-16-bluetooth-scanner-works-the-ultimate-guide/",
+          "publishedOn": "2026-02-04T20:38:59.000Z",
+          "wordCount": 13955,
+          "title": "How AOSP 16 Bluetooth Scanner Works: The Ultimate Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770234863523/44a1690e-ab8a-4f6b-a12b-2c2636947d8c.png"
+        },
+        {
+          "id": "6983a70b543e15ed3c801f63",
+          "author": "Atuoha Anthony",
+          "description": "As Flutter applications grow beyond a single mobile app, teams quickly encounter a new class of problems. Shared business logic begins to be copied across projects. UI components drift out of sync. Fixes in one app don’t propagate cleanly to others. ...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-monorepos-in-flutter/",
+          "publishedOn": "2026-02-04T20:07:39.000Z",
+          "wordCount": 4302,
+          "title": "How to Use Monorepos in Flutter",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770234857032/469b96ec-07d5-4ca3-9662-d890790a6a75.png"
+        },
+        {
+          "id": "69837cd8f119ce39fb6041f1",
+          "author": "Manish Shivanandhan",
+          "description": "Modern systems generate huge volumes of logs. Application logs, server logs, and infrastructure logs often contain the first clues when something breaks. The problem is not a lack of data, but the effort required to read and understand it. Engineers ...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-and-deploy-a-loganalyzer-agent-using-langchain/",
+          "publishedOn": "2026-02-04T17:07:36.000Z",
+          "wordCount": 2494,
+          "title": "How to Build and Deploy a LogAnalyzer Agent using LangChain",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770224778776/7d5c3a27-adc2-4cde-94d5-4ac7db892673.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
