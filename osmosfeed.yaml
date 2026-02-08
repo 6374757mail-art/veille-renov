@@ -4,8 +4,15 @@
 #########################
 
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://6374757mail-art.github.io/veille-renov/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://www.google.fr/alerts/feeds/05126306801362129745/15497077643267380995
+    title: 1. Législation & Réglementation
+  - href: https://www.google.fr/alerts/feeds/05126306801362129745/18444530545673407549
+    title: 2. Financements & Aides
+  - href: https://www.google.fr/alerts/feeds/05126306801362129745/10711891804109961240
+    title: 3. Innovation Technique & Matériaux
+  - href: https://www.google.fr/alerts/feeds/05126306801362129745/10711891804109960602
+    title: 4. Labels & Certifications
+  - href: https://www.google.fr/alerts/feeds/05126306801362129745/14804311893294827538
+    title: 5. Fiscalité
