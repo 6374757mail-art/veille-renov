@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://6374757mail-art.github.io/veille-renov/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-22T01:11:34.765Z</updated>
+    <updated>2026-08-23T01:17:24.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://6374757mail-art.github.io/veille-renov/index.html"/>
     <link rel="self" href="https://6374757mail-art.github.io/veille-renov/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[<b>Géothermie</b> en Guadeloupe : Albioma obtient le feu vert pour creuser plus profond sous la Soufrière]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.stmartinweek.fr/geothermie-en-guadeloupe-albioma-obtient-le-feu-vert-pour-creuser-plus-profond-sous-la-soufriere/&amp;ct=ga&amp;cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw02aX5O_7csCf0MiFJrKbge</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.stmartinweek.fr/geothermie-en-guadeloupe-albioma-obtient-le-feu-vert-pour-creuser-plus-profond-sous-la-soufriere/&amp;ct=ga&amp;cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw02aX5O_7csCf0MiFJrKbge"/>
+        <updated>2026-08-22T16:53:06.000Z</updated>
+        <summary type="html"><![CDATA[Géothermie en Guadeloupe : Albioma obtient le feu vert pour creuser plus profond sous la Soufrière · Un permis d'exploration dans une zone sensible de ...]]></summary>
+        <author>
+            <name>Alerte Google : ("Rénovation thermique" OR "VMC Double Flux" OR "Pompe à chaleur hybride" OR "Géothermie" OR "Gestion Technique du Bâtiment" OR "Matériaux bio-sourcés" OR "Ouate de cellulose" OR "Béton de chanvre" OR "Fibre de bois") -promo -soldes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Augny. La <b>géothermie</b> dans les classes : une solution économique et écologique]]></title>
         <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.republicain-lorrain.fr/economie/2026/08/21/la-geothermie-dans-les-classes-une-solution-economique-et-ecologique&amp;ct=ga&amp;cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw0IrYcTF52QjgdXo8M5YitA</id>
@@ -24,6 +34,16 @@
         <summary type="html"><![CDATA[MaPrimeRénov' : un nouveau site depuis le 17 août, attention à ... Depuis le 17 août, toutes les demandes d'aides Anah passent par France ...]]></summary>
         <author>
             <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rénovation énergétique : ces pratiques qui, depuis 2026, exposent les dirigeants à la prison ...]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.maison-travaux.fr/amenagement/renovation-energetique-ces-pratiques-qui-depuis-2026-exposent-les-dirigeants-a-la-prison-et-ruinent-leur-entreprise-640259.html&amp;ct=ga&amp;cd=CAIyGzY1YThjMjBiMjAwZTcxN2Y6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw0I-6DLzwDd03tzVUn91p8v</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.maison-travaux.fr/amenagement/renovation-energetique-ces-pratiques-qui-depuis-2026-exposent-les-dirigeants-a-la-prison-et-ruinent-leur-entreprise-640259.html&amp;ct=ga&amp;cd=CAIyGzY1YThjMjBiMjAwZTcxN2Y6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw0I-6DLzwDd03tzVUn91p8v"/>
+        <updated>2026-08-21T15:55:45.000Z</updated>
+        <summary type="html"><![CDATA[... RGE alors que les travaux étaient en réalité réalisés par un sous-traitant non qualifié, confusion entretenue avec des organismes comme l'Anah ou ...]]></summary>
+        <author>
+            <name>Alerte Google : ("Labels éco-responsables" OR "Bâtiment durable" OR "Certification énergétique" OR "RGE" OR PassivHaus OR "Label BBC Rénovation" OR "NF Habitat HQE")</name>
         </author>
     </entry>
     <entry>
@@ -2763,96 +2783,6 @@
         <summary type="html"><![CDATA[... CEE PACTE Industrie, Mon parcours économies d'énergie et l'initiative ACT ... CEE - Certificats d'économies d'énergie S'ouvre dans une nouvelle fenêtre.]]></summary>
         <author>
             <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Les rénovations énergétiques par geste aidées par MaPrimeRenov&#39; en 2024 - SDES]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.statistiques.developpement-durable.gouv.fr/les-renovations-energetiques-par-geste-aidees-par-maprimerenov-en-2024&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw0g7U-7k3okPgZGPv3PojYd</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.statistiques.developpement-durable.gouv.fr/les-renovations-energetiques-par-geste-aidees-par-maprimerenov-en-2024&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw0g7U-7k3okPgZGPv3PojYd"/>
-        <updated>2026-07-24T13:09:11.000Z</updated>
-        <summary type="html"><![CDATA[... MaPrimeRénov' sont estimées à 1,4 TWh/an, soit 5,9 MWh/an par logement ... certificats d'économies d'énergie | Ministères Transition ...]]></summary>
-        <author>
-            <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canicule, sécheresse… les prévisions pour août sont tombées, et elles ne sont pas rassurantes]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://tr92.fr/canicule-secheresse-les-previsions-pour-aout-sont-tombees-et-elles-ne-sont-pas-rassurantes/&amp;ct=ga&amp;cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw2i_h3z1MU9JOmi_b-Yunqj</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://tr92.fr/canicule-secheresse-les-previsions-pour-aout-sont-tombees-et-elles-ne-sont-pas-rassurantes/&amp;ct=ga&amp;cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw2i_h3z1MU9JOmi_b-Yunqj"/>
-        <updated>2026-07-24T13:03:48.000Z</updated>
-        <summary type="html"><![CDATA[La géothermie chauffe désormais 15 000 logements à Châtenay-Malabry et au Plessis-Robinson. 8 juillet 2026 ...]]></summary>
-        <author>
-            <name>Alerte Google : ("Rénovation thermique" OR "VMC Double Flux" OR "Pompe à chaleur hybride" OR "Géothermie" OR "Gestion Technique du Bâtiment" OR "Matériaux bio-sourcés" OR "Ouate de cellulose" OR "Béton de chanvre" OR "Fibre de bois") -promo -soldes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FR Le Conseil d&#39;État valide le décret de la sixième période des <b>CEE</b> - Contexte]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.contexte.com/fr/actualite/energie/le-conseil-detat-valide-le-decret-de-la-sixieme-periode-des-cee_273414&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw0fnvKse4JugSHOFaHm4K9r</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.contexte.com/fr/actualite/energie/le-conseil-detat-valide-le-decret-de-la-sixieme-periode-des-cee_273414&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw0fnvKse4JugSHOFaHm4K9r"/>
-        <updated>2026-07-24T12:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Certificats d'économies d'énergie. FR Le Conseil d'État valide le décret de la sixième période des CEE. Le décret fixant les paramètres de la ...]]></summary>
-        <author>
-            <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9 500, 6 500, aides <b>CEE</b> pour les voitures électriques d&#39;occasion en 2026, ce qui change ...]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://larevuetech.fr/9-500-6-500-aides-cee-pour-les-voitures-electriques-doccasion-en-2026-ce-qui-change-pour-votre-budget-auto/&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw3uepMZYtwCMpJfClse3zRa</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://larevuetech.fr/9-500-6-500-aides-cee-pour-les-voitures-electriques-doccasion-en-2026-ce-qui-change-pour-votre-budget-auto/&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw3uepMZYtwCMpJfClse3zRa"/>
-        <updated>2026-07-24T10:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Le secteur électrique défend une prime d'occasion entre 6 500 € et 9 500 € en 2026 · Les certificats d'économies d'énergie (CEE) sont le canal de ...]]></summary>
-        <author>
-            <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La Kia EV4 devient beaucoup plus accessible, mais l&#39;offre ne dure que jusqu&#39;au 31 juillet]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.itransports.fr/la-kia-ev4-devient-beaucoup-plus-accessible-mais-loffre-ne-dure-que-jusquau-31-juillet/&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw0AE7APvCQ2M9QhsBy_z9Uc</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.itransports.fr/la-kia-ev4-devient-beaucoup-plus-accessible-mais-loffre-ne-dure-que-jusquau-31-juillet/&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw0AE7APvCQ2M9QhsBy_z9Uc"/>
-        <updated>2026-07-24T03:45:54.000Z</updated>
-        <summary type="html"><![CDATA[Lancée à l'été 2025, la berline électrique coréenne profite déjà d'une remise constructeur et d'un coup de pouce lié à la prime CEE. Résultat ...]]></summary>
-        <author>
-            <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canicules : comment obtenir jusqu&#39;à 1 500 € d&#39;aides pour installer une clim&#39; réversible ?]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://positivr.fr/canicules-comment-obtenir-jusqua-1-500-e-daides-pour-installer-une-clim-reversible/&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw3YeR51oomDEdtRmrvjIVtr</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://positivr.fr/canicules-comment-obtenir-jusqua-1-500-e-daides-pour-installer-une-clim-reversible/&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw3YeR51oomDEdtRmrvjIVtr"/>
-        <updated>2026-07-23T18:03:38.000Z</updated>
-        <summary type="html"><![CDATA[La prime CEE : un soutien financier accessible à tous · MaPrimeRénov' et aides locales : comment en profiter ? · Vous aimerez aussi · Derniers articles.]]></summary>
-        <author>
-            <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Réforme des <b>certificats d&#39;économies d&#39;énergie</b> : un levier majeur pour l&#39;électrification du ...]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.auto-infos.fr/article/reforme-des-certificats-d-economies-d-energie-un-levier-majeur-pour-l-electrification-du-transport-routier.292911&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw3zYU_Sa_MrkFgfURT_epUN</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.auto-infos.fr/article/reforme-des-certificats-d-economies-d-energie-un-levier-majeur-pour-l-electrification-du-transport-routier.292911&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw3zYU_Sa_MrkFgfURT_epUN"/>
-        <updated>2026-07-23T17:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Entrée en vigueur au 1er juin 2026, la dernière réforme des certificats d'économies d'énergie (CEE) constitue une étape déterminante dans la.]]></summary>
-        <author>
-            <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rénovation énergétique : l&#39;instabilité des règles freine les projets - Batiweb]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.batiweb.com/actualites/tribune/renovation-energetique-instabilite-reglementaire-nouveau-grenelle-48770&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw38nv6SMB_zHlEAdJYbTb3I</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.batiweb.com/actualites/tribune/renovation-energetique-instabilite-reglementaire-nouveau-grenelle-48770&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw38nv6SMB_zHlEAdJYbTb3I"/>
-        <updated>2026-07-23T14:58:03.000Z</updated>
-        <summary type="html"><![CDATA[Les aides évoluent, les critères de MaPrimeRénov' sont modifiés, les règles des Certificats d'Économies d'Énergie sont revues, le DPE est corrigé ...]]></summary>
-        <author>
-            <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forage d&#39;eau et <b>géothermie</b> : le SFEG crée un métier reconnu par l&#39;État]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.constructionbtp.com/reseaux-vrd/article/2026/07/23/155849/forage-eau-geothermie-sfeg-cree-metier-reconnu-par-etat&amp;ct=ga&amp;cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw3ogm3jXWAPZOsOAlsNTgyd</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.constructionbtp.com/reseaux-vrd/article/2026/07/23/155849/forage-eau-geothermie-sfeg-cree-metier-reconnu-par-etat&amp;ct=ga&amp;cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw3ogm3jXWAPZOsOAlsNTgyd"/>
-        <updated>2026-07-23T14:46:07.000Z</updated>
-        <summary type="html"><![CDATA[... géothermie. Ce métier de terrain gagne enfin sa reconnaissance officielle : le SFEG annonce la création du premier certificat de qualification ...]]></summary>
-        <author>
-            <name>Alerte Google : ("Rénovation thermique" OR "VMC Double Flux" OR "Pompe à chaleur hybride" OR "Géothermie" OR "Gestion Technique du Bâtiment" OR "Matériaux bio-sourcés" OR "Ouate de cellulose" OR "Béton de chanvre" OR "Fibre de bois") -promo -soldes</name>
         </author>
     </entry>
 </feed>
