@@ -4,24 +4,133 @@
       "title": "Alerte Google : (\"Réglementation thermique\" OR \"Rénovation performante\" OR \"Audit énergétique\" OR RE2020 OR \"Décret BACS\" OR \"Loi Climat et Résilience\" OR \"DPE\" OR \"Carnet d'information du logement\") site:legifrance.gouv.fr OR site:service-public.fr OR site:ecologie.gouv.fr",
       "feedUrl": "https://www.google.fr/alerts/feeds/05126306801362129745/15497077643267380995",
       "siteUrl": "https://www.google.com/alerts/feeds/05126306801362129745/15497077643267380995",
-      "articles": [
-        {
-          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.ecologie.gouv.fr/presse/ministere-ville-du-logement-rend-publiques-donnees-re2020-accompagner-transition&ct=ga&cd=CAIyGzA0MWJkNTVkZjczYmUzYTk6ZnI6ZnI6RlI6Ug&usg=AOvVaw2Fc2AdWqiEOIJ7_dFO-NOy",
-          "author": null,
-          "description": "... (RE2020). Ces données permettent de mieux documenter les performances énergétiques et environnementales des constructions neuves soumises à la ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ecologie.gouv.fr/presse/ministere-ville-du-logement-rend-publiques-donnees-re2020-accompagner-transition&ct=ga&cd=CAIyGzA0MWJkNTVkZjczYmUzYTk6ZnI6ZnI6RlI6Ug&usg=AOvVaw2Fc2AdWqiEOIJ7_dFO-NOy",
-          "publishedOn": "2026-09-03T15:14:52.000Z",
-          "wordCount": 14,
-          "title": "Le ministère de la Ville et du Logement rend publiques les données de la <b>RE2020</b> pour ...",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Alerte Google : (\"Aides financières rénovation\" OR \"MaPrimeRénov\" OR \"Certificats d'Économies d'Énergie\" OR \"CEE\" OR \"Éco-PTZ\" OR \"Prêt Avance Mutation\" OR \"Aides ANAH\") -devis -simul",
       "feedUrl": "https://www.google.fr/alerts/feeds/05126306801362129745/18444530545673407549",
       "siteUrl": "https://www.google.com/alerts/feeds/05126306801362129745/18444530545673407549",
       "articles": [
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://fr.news.yahoo.com/sport/budget-2027-cr%25C3%25A9dits-utilis%25C3%25A9s-maprimer%25C3%25A9nov-175015516.html&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw1dpSRD3tGT5PL-nFCFwpWz",
+          "author": null,
+          "description": "Budget 2027 : Les crédits utilisés pour MaPrimeRénov' amputés de 200 millions d'euros ... CEE », les certificats d'économie d'énergie, indique l'annexe ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://fr.news.yahoo.com/sport/budget-2027-cr%25C3%25A9dits-utilis%25C3%25A9s-maprimer%25C3%25A9nov-175015516.html&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw1dpSRD3tGT5PL-nFCFwpWz",
+          "publishedOn": "2026-10-02T18:08:06.000Z",
+          "wordCount": 14,
+          "title": "Budget 2027 : Les crédits utilisés pour <b>MaPrimeRénov</b>&#39; amputés de 200 millions d&#39;euros",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://atlasinfo.fr/les-pays-de-lunion-eurasiatique-sengagent-pour-un-marche-commun-de-lelectricite-des-2027.html&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw3fP3dh2bC7zufjd63-VE4P",
+          "author": null,
+          "description": "... (CEE), organe exécutif de l'UEE qui regroupe la Russie, la Biélorussie, le Kazakhstan, l'Arménie et le Kirghizistan. Une décision entérinée à Minsk.",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://atlasinfo.fr/les-pays-de-lunion-eurasiatique-sengagent-pour-un-marche-commun-de-lelectricite-des-2027.html&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw3fP3dh2bC7zufjd63-VE4P",
+          "publishedOn": "2026-10-02T17:06:47.000Z",
+          "wordCount": 14,
+          "title": "Les pays de l&#39;Union eurasiatique s&#39;engagent pour un marché commun de l&#39;électricité dès 2027",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.corsematin.com/article/economie/37126564997439/maprimerenov-le-budget-de-letat-pour-lanah-baisse-de-200-millions-deuros-en-2027&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw3i2SmlBdrXW4tYPurB1H0t",
+          "author": null,
+          "description": "... MaPrimeRénov', une partie de son financement reposant désormais sur les certificats d'économies d'énergie (CEE). Le budget de l'État consacré en ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.corsematin.com/article/economie/37126564997439/maprimerenov-le-budget-de-letat-pour-lanah-baisse-de-200-millions-deuros-en-2027&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw3i2SmlBdrXW4tYPurB1H0t",
+          "publishedOn": "2026-10-02T16:19:45.000Z",
+          "wordCount": 14,
+          "title": "<b>MaPrimeRénov</b>&#39; : le budget de l&#39;État pour l&#39;Anah baisse de 200 millions d&#39;euros en 2027",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://fr.finance.yahoo.com/actualites/maprimer%25C3%25A9nov-budget-lanah-baisse-200-160941073.html&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw0cUn4wyQV4IP7v6QCdGlCK",
+          "author": null,
+          "description": "La dotation de l'État pour 2027 dans le budget de l'Agence nationale de l'habitat (Anah), qui distribue les aides MaPrimeRénov ... (CEE), comme ce fut le ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://fr.finance.yahoo.com/actualites/maprimer%25C3%25A9nov-budget-lanah-baisse-200-160941073.html&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw0cUn4wyQV4IP7v6QCdGlCK",
+          "publishedOn": "2026-10-02T16:17:31.000Z",
+          "wordCount": 14,
+          "title": "<b>MaPrimeRénov</b>&#39; : le budget de l&#39;Anah en baisse de 200 millions d&#39;euros - Yahoo Finance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.boursorama.com/immobilier/actualites/maprimerenov-le-budget-de-l-anah-en-baisse-de-200-millions-d-euros-f48d4509cb23c93b33d7614a2d00be3d&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw3nY1xDRvWLFoZ5AoijuPK7",
+          "author": null,
+          "description": "La dotation de l'État pour 2027 dans le budget de l'Agence nationale de l'habitat (Anah), qui distribue les aides MaPrimeRénov ... CEE\", les certificats ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.boursorama.com/immobilier/actualites/maprimerenov-le-budget-de-l-anah-en-baisse-de-200-millions-d-euros-f48d4509cb23c93b33d7614a2d00be3d&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw3nY1xDRvWLFoZ5AoijuPK7",
+          "publishedOn": "2026-10-02T16:14:38.000Z",
+          "wordCount": 14,
+          "title": "<b>MaPrimeRénov</b>&#39; : le budget de l&#39;Anah en baisse de 200 millions d&#39;euros - 02/10/2026 à 18 ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.autoplus.fr/environnement/la-renault-twingo-est-accessible-a-moins-de-100-euros-par-mois-1469475.html&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw1fqZF0cze3vibpPPPUOauq",
+          "author": null,
+          "description": "Parmi elles, on peut citer la prime CEE ainsi que le leasing social. En parallèle, les constructeurs lancent désormais des autos particulièrement ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.autoplus.fr/environnement/la-renault-twingo-est-accessible-a-moins-de-100-euros-par-mois-1469475.html&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw1fqZF0cze3vibpPPPUOauq",
+          "publishedOn": "2026-10-02T16:06:27.000Z",
+          "wordCount": 14,
+          "title": "La Renault Twingo est accessible à moins de 100 euros par mois - Auto Plus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.linfodurable.fr/maprimerenov-le-budget-de-lanah-en-baisse-de-200-millions-deuros-59231&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw2nwY9pZ75127NrTM2Kijvm",
+          "author": null,
+          "description": "... MaPrimeRénov' : le budget de l'Anah en baisse de 200 millions d ... CEE\", les certificats d'économie d'énergie, indique l'annexe publiée ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linfodurable.fr/maprimerenov-le-budget-de-lanah-en-baisse-de-200-millions-deuros-59231&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw2nwY9pZ75127NrTM2Kijvm",
+          "publishedOn": "2026-10-02T15:47:41.000Z",
+          "wordCount": 14,
+          "title": "<b>MaPrimeRénov</b>&#39; : le budget de l&#39;Anah en baisse de 200 millions d&#39;euros - ID, l&#39;Info Durable",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.autosphere.fr/blog/meilleure-voiture-etudiant-2026-financement/&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw1Hkxw9vDQ1aV6vel8RjdUN",
+          "author": null,
+          "description": "Privilégier l'occasion récente permet de sécuriser votre budget assurance tout en profitant d'aides comme la prime CEE de 337 € pour l'électrique. C' ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.autosphere.fr/blog/meilleure-voiture-etudiant-2026-financement/&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw1Hkxw9vDQ1aV6vel8RjdUN",
+          "publishedOn": "2026-10-02T14:37:05.000Z",
+          "wordCount": 14,
+          "title": "Top 3 des meilleures voitures pour étudiants en 2026 - Blog Autosphere",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.ecologie.gouv.fr/politiques-publiques/bonification-secteur-industrie&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw21JAitx14h-zzmZIKyki_g",
+          "author": null,
+          "description": "Les bonifications s'inscrivent dans le cadre du dispositif des certificats d'économies d'énergie (CEE) et visent à renforcer l'accompagnement des ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ecologie.gouv.fr/politiques-publiques/bonification-secteur-industrie&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw21JAitx14h-zzmZIKyki_g",
+          "publishedOn": "2026-10-02T13:43:22.000Z",
+          "wordCount": 14,
+          "title": "Bonification secteur industrie | Ministères Transition écologique, Aménagement du Territoire ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.eurosport.fr/natation/jay-cee-thompson_prs20309898/joueur.shtml&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw0-X-Czl4KYzT0040JLJaS2",
+          "author": null,
+          "description": "Natation | Hommes. Jay-Cee Thompson. Afrique du Sud. Il n'y a pas encore d'actualité disponible. Comment s'est déroulée votre expérience ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.eurosport.fr/natation/jay-cee-thompson_prs20309898/joueur.shtml&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw0-X-Czl4KYzT0040JLJaS2",
+          "publishedOn": "2026-10-02T12:15:42.000Z",
+          "wordCount": 14,
+          "title": "Jay-<b>Cee</b> Thompson - Actualités &amp; Infos - Natation - Eurosport",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.aefinfo.fr/depeche/757841&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw1sshoxkRMcSeUtgQwyWrep",
+          "author": null,
+          "description": "Un budget resserré pour MaPrimeRénov', qui financera les gestes \"uniquement\" avec les CEE. event Publié le 2 octobre 2026 à 13h50 send Diffusé sur ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aefinfo.fr/depeche/757841&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw1sshoxkRMcSeUtgQwyWrep",
+          "publishedOn": "2026-10-02T11:51:12.000Z",
+          "wordCount": 14,
+          "title": "Un budget resserré pour <b>MaPrimeRénov</b>&#39;, qui financera les gestes &quot;uniquement&quot; avec les <b>CEE</b>",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.aefinfo.fr/depeche/757774&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw0v2tFVxYPy8CQ1j4H0v22U",
+          "author": null,
+          "description": "Le comité de pilotage du dispositif des certificats d'économies d'énergie (CEE), qui devait se tenir mardi 6 octobre, est reporté au lundi 12 octobre, ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aefinfo.fr/depeche/757774&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw0v2tFVxYPy8CQ1j4H0v22U",
+          "publishedOn": "2026-10-02T08:10:53.000Z",
+          "wordCount": 14,
+          "title": "Certificats d&#39;économie d&#39;énergie, énergies renouvelables, électrification, EDF et le RN au ...",
+          "imageUrl": null
+        },
         {
           "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.mac4ever.com/auto/198309-prime-voiture-electrique-jusqu-a-6-200-euros-menacee-pour-faire-baisser-l-essence&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw0a44tZIhqPNns8iQNBbHFM",
           "author": null,
@@ -3071,56 +3180,6 @@
           "wordCount": 14,
           "title": "Publicis remporte le budget média mondial de Pepsi et laisse Coca-Cola sur le carreau",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.batirama.com/amp/article/108174-13-trimestres-dans-le-rouge-jusqu-ou-tiendront-les-artisans-du-batiment.html&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw0N7BGdQbv-fJ1dD_Y9SWur",
-          "author": null,
-          "description": "Une orientation qui ne convainc pas Jean-Christophe Repon. Le président de la CAPEB plaide au contraire pour une réaffectation de MaPrimeRénov' vers ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.batirama.com/amp/article/108174-13-trimestres-dans-le-rouge-jusqu-ou-tiendront-les-artisans-du-batiment.html&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw0N7BGdQbv-fJ1dD_Y9SWur",
-          "publishedOn": "2026-09-03T11:08:16.000Z",
-          "wordCount": 14,
-          "title": "13 trimestres dans le rouge : jusqu&#39;où tiendront les artisans du bâtiment - Batirama.com",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.pleinevie.fr/conso-argent/maprimerenov-quels-sont-les-travaux-qui-ne-sont-plus-eligibles-en-septembre-2026-222399.html&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw2nRT9xasA1_xhipHScchgF",
-          "author": null,
-          "description": "Entre chauffage, isolation ou solaire, de nombreux projets devront évoluer pour continuer à profiter d'une aide publique. Le dispositif MaPrimeRénov', ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.pleinevie.fr/conso-argent/maprimerenov-quels-sont-les-travaux-qui-ne-sont-plus-eligibles-en-septembre-2026-222399.html&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw2nRT9xasA1_xhipHScchgF",
-          "publishedOn": "2026-09-03T10:19:55.000Z",
-          "wordCount": 14,
-          "title": "<b>MaPrimeRénov</b>&#39; : quels sont les travaux qui ne sont plus éligibles en septembre 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.google.com/url?rct=j&sa=t&url=https://bourseinside.fr/economie/carburant-lastuce-a-la-frontiere-espagnole-pour-economiser-jusqua-37-centimes-par-litre-sur-votre-plein/&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw3t_MZgELoaokLFDNUMZUfY",
-          "author": null,
-          "description": "Articles les plus lus. MaPrimeRénov', Éco-PTZ, CEE : l'erreur classique dans l'. Immobilier. MaPrimeRénov', Éco-PTZ, CEE : l'erreur classique dans l ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://bourseinside.fr/economie/carburant-lastuce-a-la-frontiere-espagnole-pour-economiser-jusqua-37-centimes-par-litre-sur-votre-plein/&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw3t_MZgELoaokLFDNUMZUfY",
-          "publishedOn": "2026-09-02T23:08:47.000Z",
-          "wordCount": 14,
-          "title": "Carburant : l&#39;astuce à la frontière espagnole pour économiser jusqu&#39;à 37 centimes par litre ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.google.com/url?rct=j&sa=t&url=https://bulletindescommunes.net/prime-activite-hausse-salaire-baisse-aide/&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw3vOtipCZO7sqFoAjGdRvnw",
-          "author": null,
-          "description": "MaPrimeRénov' : depuis le 1er septembre, quels travaux du parcours ... MaPrimeRénov' : depuis le 1er septembre, quels travaux du parcours ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://bulletindescommunes.net/prime-activite-hausse-salaire-baisse-aide/&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw3vOtipCZO7sqFoAjGdRvnw",
-          "publishedOn": "2026-09-02T21:46:39.000Z",
-          "wordCount": 14,
-          "title": "Prime d&#39;activité : une hausse de salaire peut-elle faire baisser votre aide dès la prochaine déclaration",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.google.com/url?rct=j&sa=t&url=https://bourseinside.fr/economie/climatisation-la-regle-des-26c-est-une-erreur-qui-fait-exploser-votre-facture-voici-le-bon-calcul/&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw30Z1OP5xOVOjNvsd2TmQHH",
-          "author": null,
-          "description": "MaPrimeRénov', Éco-PTZ, CEE : l'erreur classique dans l'. Immobilier. MaPrimeRénov', Éco-PTZ, CEE : l'erreur classique dans l'ordre des demandes qui ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://bourseinside.fr/economie/climatisation-la-regle-des-26c-est-une-erreur-qui-fait-exploser-votre-facture-voici-le-bon-calcul/&ct=ga&cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&usg=AOvVaw30Z1OP5xOVOjNvsd2TmQHH",
-          "publishedOn": "2026-09-02T20:25:33.000Z",
-          "wordCount": 14,
-          "title": "Climatisation : la règle des 26°C est une erreur qui fait exploser votre facture, voici le bon calcul",
-          "imageUrl": null
         }
       ]
     },
@@ -3129,6 +3188,36 @@
       "feedUrl": "https://www.google.fr/alerts/feeds/05126306801362129745/10711891804109961240",
       "siteUrl": "https://www.google.com/alerts/feeds/05126306801362129745/10711891804109961240",
       "articles": [
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.maisonapart.com/edito/s-inspirer/ambiances-et-styles/made-in-design---deux-nouvelles-collabs-sous-le-si-14564.php&ct=ga&cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&usg=AOvVaw18eSYsi-WgYGvnrzCcLOF3",
+          "author": null,
+          "description": "Made in Design : deux nouvelles collabs sous le signe du design scandinave ; Pompe à Chaleur Hybride : le meilleur de deux énergies ; Un intérieur ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.maisonapart.com/edito/s-inspirer/ambiances-et-styles/made-in-design---deux-nouvelles-collabs-sous-le-si-14564.php&ct=ga&cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&usg=AOvVaw18eSYsi-WgYGvnrzCcLOF3",
+          "publishedOn": "2026-10-02T19:04:44.000Z",
+          "wordCount": 14,
+          "title": "Made in Design : deux nouvelles collabs sous le signe du design scandinave",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.bsmart.fr/video/35100-materials-lights-02-octobre-2026&ct=ga&cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&usg=AOvVaw1W0q8MgCp4jU707jcQBfVI",
+          "author": null,
+          "description": "La géothermie par abonnement. À l'occasion des Journées d'Architecture, Fabrice Cousté reçoit Kilian Bazin, président chez le Bon Tuyau. Partager.",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bsmart.fr/video/35100-materials-lights-02-octobre-2026&ct=ga&cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&usg=AOvVaw1W0q8MgCp4jU707jcQBfVI",
+          "publishedOn": "2026-10-02T16:30:41.000Z",
+          "wordCount": 14,
+          "title": "LES JOURNÉES D&#39;ARCHITECTURE - La <b>géothermie</b> par abonnement - B SMART",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.letelegramme.fr/finistere/carantec-29660/a-carantec-lecole-primaire-publique-les-cormorans-va-changer-de-mode-de-chauffage-7129530.php&ct=ga&cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&usg=AOvVaw2yVQrTc3rzopeMvsOwam1N",
+          "author": null,
+          "description": "À Carantec, l'école Les Cormorans troque le fioul contre la géothermie, une solution plus écologique et économique pour permettre de chauffer les ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.letelegramme.fr/finistere/carantec-29660/a-carantec-lecole-primaire-publique-les-cormorans-va-changer-de-mode-de-chauffage-7129530.php&ct=ga&cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&usg=AOvVaw2yVQrTc3rzopeMvsOwam1N",
+          "publishedOn": "2026-10-02T10:03:32.000Z",
+          "wordCount": 14,
+          "title": "À Carantec, l&#39;école primaire publique Les Cormorans va changer de mode de chauffage",
+          "imageUrl": null
+        },
         {
           "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.boursorama.com/videos/actualites/a-l-occasion-de-ses-semestriels-arverne-fait-le-point-sur-son-activite-04d01eeb7876cd874b9785db025606e3&ct=ga&cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&usg=AOvVaw3FZyb4kjYketANnPPk6eOu",
           "author": null,
@@ -4528,66 +4617,6 @@
           "wordCount": 14,
           "title": "Déplacement de Mathieu Lefèvre à l&#39;usine des eaux de Nanteuil-lès-Meaux et sur le réseau ...",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.ladepeche.fr/2026/09/03/ce-nouvel-etablissement-repond-aux-besoins-decouvrez-la-gigantesque-mediatheque-a-29-millions-deuros-qui-ouvre-enfin-ses-portes-a-albi-cantepau-13532222.php&ct=ga&cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&usg=AOvVaw3O9Kx08ynhvwjR3QA_gmJf",
-          "author": null,
-          "description": "Ce bâtiment à énergie positive, financé à hauteur de 2,9 millions d'euros, intègre géothermie et photovoltaïque. Après vingt-deux mois de travaux ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ladepeche.fr/2026/09/03/ce-nouvel-etablissement-repond-aux-besoins-decouvrez-la-gigantesque-mediatheque-a-29-millions-deuros-qui-ouvre-enfin-ses-portes-a-albi-cantepau-13532222.php&ct=ga&cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&usg=AOvVaw3O9Kx08ynhvwjR3QA_gmJf",
-          "publishedOn": "2026-09-03T13:53:53.000Z",
-          "wordCount": 14,
-          "title": "&quot;Ce nouvel établissement répond aux besoins&quot;... Découvrez la gigantesque médiathèque à ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.servicesmobiles.fr/google-achete-396-mw-a-fervo-lia-relance-la-geothermie-en-utah-114353&ct=ga&cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&usg=AOvVaw2PgUeqnYcFF5kfmSW88EAz",
-          "author": null,
-          "description": "Si elle l'active, on monte à 996 MW. Là, on change d'échelle. L'IA cherche des mégawatts, la géothermie entre dans le jeu. Ce contrat arrive au bon ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.servicesmobiles.fr/google-achete-396-mw-a-fervo-lia-relance-la-geothermie-en-utah-114353&ct=ga&cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&usg=AOvVaw2PgUeqnYcFF5kfmSW88EAz",
-          "publishedOn": "2026-09-03T10:07:30.000Z",
-          "wordCount": 14,
-          "title": "Google achète 396 MW à Fervo, l&#39;IA relance la <b>géothermie</b> en Utah - Servicesmobiles.fr",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.sudouest.fr/gironde/floirac/floirac-la-municipalite-mise-sur-la-renovation-thermique-et-l-ecole-inclusive-30443868.php&ct=ga&cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&usg=AOvVaw2fhsmzHEyOuX80GSWsMgKK",
-          "author": null,
-          "description": "La Ville de Floirac a aussi mis en place un Plan pluriannuel d'investissement à long terme, qui prévoit la rénovation thermique globale du bâti ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sudouest.fr/gironde/floirac/floirac-la-municipalite-mise-sur-la-renovation-thermique-et-l-ecole-inclusive-30443868.php&ct=ga&cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&usg=AOvVaw2fhsmzHEyOuX80GSWsMgKK",
-          "publishedOn": "2026-09-03T03:51:15.000Z",
-          "wordCount": 14,
-          "title": "Floirac : la municipalité mise sur la <b>rénovation thermique</b> et soutient l&#39;école inclusive",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.sudouest.fr/gironde/avensan/avensan-un-groupe-scolaire-renove-et-pare-pour-la-rentree-30450138.php&ct=ga&cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&usg=AOvVaw1SW4qjhuBmJ0eJ0TToAagr",
-          "author": null,
-          "description": "Près de 400 élèves ont retrouvé les bancs de l'école ce mardi 1er septembre. L'établissement a achevé sa rénovation thermique et renforcé sa ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sudouest.fr/gironde/avensan/avensan-un-groupe-scolaire-renove-et-pare-pour-la-rentree-30450138.php&ct=ga&cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&usg=AOvVaw1SW4qjhuBmJ0eJ0TToAagr",
-          "publishedOn": "2026-09-02T22:00:06.000Z",
-          "wordCount": 14,
-          "title": "Avensan : un groupe scolaire rénové et paré pour la rentrée - Sud Ouest",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.caissedesdepots.fr/eclairage/actualites/financer-la-renovation-thermique-du-siege-de-la-cci-marne-ardennes&ct=ga&cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&usg=AOvVaw1RImXouSLe4bu2_0TU0yv9",
-          "author": null,
-          "description": "La Banque des Territoires finance, via un prêt d'un montant de 4,441 M€* sur fonds d'épargne, l'aménagement et la rénovation thermique du bâtiment ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.caissedesdepots.fr/eclairage/actualites/financer-la-renovation-thermique-du-siege-de-la-cci-marne-ardennes&ct=ga&cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&usg=AOvVaw1RImXouSLe4bu2_0TU0yv9",
-          "publishedOn": "2026-09-02T18:46:28.000Z",
-          "wordCount": 14,
-          "title": "Financer la <b>rénovation thermique</b> du siège de la CCI Marne Ardennes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.vosgesmatin.fr/economie/2026/09/02/ecole-julie-victoire-daubie-a-neufchateau-la-renovation-thermique-se-poursuit&ct=ga&cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&usg=AOvVaw1EiSrNyNTV2SbjUY1ln7vv",
-          "author": null,
-          "description": "Entamées au cours de l'année 2019, les opérations de rénovation thermique à l'école Julie-Victoire-Daubié (JVD) se poursuivent. Tandis que les ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.vosgesmatin.fr/economie/2026/09/02/ecole-julie-victoire-daubie-a-neufchateau-la-renovation-thermique-se-poursuit&ct=ga&cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&usg=AOvVaw1EiSrNyNTV2SbjUY1ln7vv",
-          "publishedOn": "2026-09-02T17:32:19.000Z",
-          "wordCount": 14,
-          "title": "Vosges. École Julie-Victoire-Daubié à Neufchâteau : la <b>rénovation thermique</b> se poursuit",
-          "imageUrl": null
         }
       ]
     },
@@ -4596,6 +4625,26 @@
       "feedUrl": "https://www.google.fr/alerts/feeds/05126306801362129745/10711891804109960602",
       "siteUrl": "https://www.google.com/alerts/feeds/05126306801362129745/10711891804109960602",
       "articles": [
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://batijournal.com/index.php/habiter-la-france-en-2050-transformer-dabord-lexistant/113954/&ct=ga&cd=CAIyGzY1YThjMjBiMjAwZTcxN2Y6ZnI6ZnI6RlI6Ug&usg=AOvVaw3HGFH-RmpOJ8uzmdY0O5dp",
+          "author": null,
+          "description": "Comment adapter le parc immobilier français aux besoins des prochaines décennies ? Le Plan Bâtiment Durable (PBD) et le Club de l'Amélioration de l' ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://batijournal.com/index.php/habiter-la-france-en-2050-transformer-dabord-lexistant/113954/&ct=ga&cd=CAIyGzY1YThjMjBiMjAwZTcxN2Y6ZnI6ZnI6RlI6Ug&usg=AOvVaw3HGFH-RmpOJ8uzmdY0O5dp",
+          "publishedOn": "2026-10-02T20:44:14.000Z",
+          "wordCount": 14,
+          "title": "Habiter la France en 2050 : transformer d&#39;abord l&#39;existant - Bati-Journal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.parishabitat.fr/a-la-une/paris-habitat-renforce-la-qualite-de-ses-logements-grace-a-la-certification-nf-habitat-hqe/&ct=ga&cd=CAIyGzY1YThjMjBiMjAwZTcxN2Y6ZnI6ZnI6RlI6Ug&usg=AOvVaw0onBN80qqced6fUxkoUcUm",
+          "author": null,
+          "description": "Pour cela, l'Office s'appuie sur des démarches de certification parmi lesquelles la certification NF Habitat HQE, délivrée par Cerqual Qualitel ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.parishabitat.fr/a-la-une/paris-habitat-renforce-la-qualite-de-ses-logements-grace-a-la-certification-nf-habitat-hqe/&ct=ga&cd=CAIyGzY1YThjMjBiMjAwZTcxN2Y6ZnI6ZnI6RlI6Ug&usg=AOvVaw0onBN80qqced6fUxkoUcUm",
+          "publishedOn": "2026-10-02T19:28:45.000Z",
+          "wordCount": 14,
+          "title": "Paris Habitat renforce la qualité de ses logements grâce à la certification <b>NF Habitat HQE</b>",
+          "imageUrl": null
+        },
         {
           "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.effy.fr/pro/actualite/bilan-uniclima-les-pompes-a-chaleur-retrouvent-la-croissance-en-2026&ct=ga&cd=CAIyGzY1YThjMjBiMjAwZTcxN2Y6ZnI6ZnI6RlI6Ug&usg=AOvVaw36UuIk00B10j3NHDp_AhiS",
           "author": null,
