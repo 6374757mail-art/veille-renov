@@ -2,16 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://6374757mail-art.github.io/veille-renov/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-21T05:50:02.483Z</updated>
+    <updated>2026-11-22T05:22:16.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://6374757mail-art.github.io/veille-renov/index.html"/>
     <link rel="self" href="https://6374757mail-art.github.io/veille-renov/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Le bailleur social Sia Habitat teste la paille pour isoler ses logements - Le Moniteur]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.lemoniteur.fr/hauts-de-france/nord-sia-habitat-teste-la-paille-pour-isoler-ses-logements.RBG2UFR7J5NPVG3C3ZYISPTONE.html&amp;ct=ga&amp;cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw1veVcarkLjpmYuqyLx1mps</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.lemoniteur.fr/hauts-de-france/nord-sia-habitat-teste-la-paille-pour-isoler-ses-logements.RBG2UFR7J5NPVG3C3ZYISPTONE.html&amp;ct=ga&amp;cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw1veVcarkLjpmYuqyLx1mps"/>
+        <updated>2026-11-21T12:52:53.000Z</updated>
+        <summary type="html"><![CDATA[L'embrasure des ouvertures atteint 41 cm d'épaisseur pour les logements isolés à la paille contre 27 cm pour ceux en fibre de bois. Pour la première ...]]></summary>
+        <author>
+            <name>Alerte Google : ("Rénovation thermique" OR "VMC Double Flux" OR "Pompe à chaleur hybride" OR "Géothermie" OR "Gestion Technique du Bâtiment" OR "Matériaux bio-sourcés" OR "Ouate de cellulose" OR "Béton de chanvre" OR "Fibre de bois") -promo -soldes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pompe à chaleur : avec le nouveau leasing de l&#39;État, voici ce que vous allez vraiment ...]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://bourseinside.fr/impots/pompe-a-chaleur-avec-le-nouveau-leasing-de-letat-voici-ce-que-vous-allez-vraiment-economiser-sur-votre-facture-de-gaz/&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw1LetYUqZj-AKsWWKz58tk3</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://bourseinside.fr/impots/pompe-a-chaleur-avec-le-nouveau-leasing-de-letat-voici-ce-que-vous-allez-vraiment-economiser-sur-votre-facture-de-gaz/&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw1LetYUqZj-AKsWWKz58tk3"/>
+        <updated>2026-11-21T09:34:08.000Z</updated>
+        <summary type="html"><![CDATA[... certificats d'économies d'énergie. Le dispositif cible clairement le ... MaPrimeRénov' et les CEE hors offre intégrée. Seule exception, les ...]]></summary>
+        <author>
+            <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voitures électriques : quatre changements importants arrivent en 2027, de l&#39;achat à la recharge]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.autoplus.fr/environnement/voiture-electrique/voitures-electriques-quatre-changements-importants-arrivent-en-2027-de-achat-a-la-recharge-1472302.html&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw3ndWh1XrO0qnM_Fynsr74j</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.autoplus.fr/environnement/voiture-electrique/voitures-electriques-quatre-changements-importants-arrivent-en-2027-de-achat-a-la-recharge-1472302.html&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw3ndWh1XrO0qnM_Fynsr74j"/>
+        <updated>2026-11-21T09:12:05.000Z</updated>
+        <summary type="html"><![CDATA[le cœur électrique de la voiture, avec traçabilité renforcée des batteries ;; les conditions d'accès aux aides, via la prime CEE et l'éco-score ;; la ...]]></summary>
+        <author>
+            <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[La fin du dispositif Slime : un coup dur pour les ménages girondins - Actu-Locale.fr]]></title>
         <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://actu-locale.fr/Bordeaux/la-fin-du-dispositif-slime-un-coup-dur-pour-les-menages-girondins&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw0cQ4DaYhbzZOR6mCyUFY6b</id>
         <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://actu-locale.fr/Bordeaux/la-fin-du-dispositif-slime-un-coup-dur-pour-les-menages-girondins&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw0cQ4DaYhbzZOR6mCyUFY6b"/>
         <updated>2026-11-21T01:09:49.000Z</updated>
         <summary type="html"><![CDATA[Le gouvernement a justifié l'arrêt de Slime par une volonté de réorienter les certificats d'économies d'énergie (CEE) vers des projets d ...]]></summary>
+        <author>
+            <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tous les matchs résultats de P. Gatell | BeSoccer]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://fr.besoccer.com/joueur/matchs/p-gatell-3881454&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw0WgpqxEZtAdBSNfPj6_IRT</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://fr.besoccer.com/joueur/matchs/p-gatell-3881454&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw0WgpqxEZtAdBSNfPj6_IRT"/>
+        <updated>2026-11-20T23:05:19.000Z</updated>
+        <summary type="html"><![CDATA[CEE. 0'. Banquillo. Liga Nacional Juvenil. 26. Sep. OLO. Olot Sub 19. 1-0. CE Europa Sub 19. CEE. 0'. Banquillo. Liga Nacional Juvenil. 20. Sep. CEE.]]></summary>
         <author>
             <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
         </author>
@@ -4092,136 +4132,6 @@
         <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.mariefrance.fr/actualite/societe/john-64-ans-7800-euros-maison-pompe-chaleur-verite-technologie-conseils-1309773.html&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw2sXo9CZ2RHmZArBjDCYgiV"/>
         <updated>2026-10-23T18:36:10.000Z</updated>
         <summary type="html"><![CDATA[En France, les propriétaires peuvent notamment bénéficier du dispositif MaPrimeRénov' pour financer une partie des travaux. Pompe à chaleur. © DR ...]]></summary>
-        <author>
-            <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mâcon. La réhabilitation de 76 logements des Petites Blanchettes est lancée - Le JSL]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.lejsl.com/societe/2026/10/23/la-rehabilitation-de-76-logements-des-petites-blanchettes-est-lancee&amp;ct=ga&amp;cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw2h1rFTdXU7NDr7lKBLpOma</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.lejsl.com/societe/2026/10/23/la-rehabilitation-de-76-logements-des-petites-blanchettes-est-lancee&amp;ct=ga&amp;cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw2h1rFTdXU7NDr7lKBLpOma"/>
-        <updated>2026-10-23T17:06:16.000Z</updated>
-        <summary type="html"><![CDATA[... rénovation thermique et de réhabilitation des logements de son parc. Le nouveau projet porte sur l'habitat des Petites Blanchettes. Fernand ...]]></summary>
-        <author>
-            <name>Alerte Google : ("Rénovation thermique" OR "VMC Double Flux" OR "Pompe à chaleur hybride" OR "Géothermie" OR "Gestion Technique du Bâtiment" OR "Matériaux bio-sourcés" OR "Ouate de cellulose" OR "Béton de chanvre" OR "Fibre de bois") -promo -soldes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maisons, piscines et serres chauffées par le sol : en Islande, plus de 90 % du chauffage des ...]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.masculin.com/evasion/925052-maisons-piscines-et-serres-chauffees-par-le-sol-en-islande-plus-de-90-du-chauffage-des-logements-est-geothermique/&amp;ct=ga&amp;cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw2-O1v38qDWEsYM6eFDLlYZ</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.masculin.com/evasion/925052-maisons-piscines-et-serres-chauffees-par-le-sol-en-islande-plus-de-90-du-chauffage-des-logements-est-geothermique/&amp;ct=ga&amp;cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw2-O1v38qDWEsYM6eFDLlYZ"/>
-        <updated>2026-10-23T16:46:15.000Z</updated>
-        <summary type="html"><![CDATA[Plus de 90 % des logements islandais sont chauffés par la géothermie. Le pain de seigle rúgbrauð cuit environ 24 heures dans le sable chauffé. Les ...]]></summary>
-        <author>
-            <name>Alerte Google : ("Rénovation thermique" OR "VMC Double Flux" OR "Pompe à chaleur hybride" OR "Géothermie" OR "Gestion Technique du Bâtiment" OR "Matériaux bio-sourcés" OR "Ouate de cellulose" OR "Béton de chanvre" OR "Fibre de bois") -promo -soldes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kia EV2 : quelle motorisation choisir ? - L&#39;Auto-Journal]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.autojournal.fr/pratique/kia-ev2-quelle-motorisation-choisir-429493.html&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw2FUtYgQlfOQyhFAcjD-5mj</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.autojournal.fr/pratique/kia-ev2-quelle-motorisation-choisir-429493.html&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw2FUtYgQlfOQyhFAcjD-5mj"/>
-        <updated>2026-10-23T16:12:31.000Z</updated>
-        <summary type="html"><![CDATA[Mais elle permet à l'EV2 de démarrer à 26 670 € avec la petite batterie, hors prime CEE bonifiée de 3 500 € au minimum selon vos revenus. Car oui ...]]></summary>
-        <author>
-            <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dans l&#39;isolation thermique, les solutions se suivent et ne se ressemblent pas - Batiactu]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.batiactu.com/edito/dans-isolation-thermique-solutions-se-suivent-et-ne-75701.php&amp;ct=ga&amp;cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw1yssDPckPkBdNY0ZoXsIEU</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.batiactu.com/edito/dans-isolation-thermique-solutions-se-suivent-et-ne-75701.php&amp;ct=ga&amp;cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw1yssDPckPkBdNY0ZoXsIEU"/>
-        <updated>2026-10-23T15:55:16.000Z</updated>
-        <summary type="html"><![CDATA[Isolant en laine de roche, en laine de verre, en fibre de bois, en chanvre, en polyuréthane, en polystyrène, en polyéthylène, en ouate de cellulose ...]]></summary>
-        <author>
-            <name>Alerte Google : ("Rénovation thermique" OR "VMC Double Flux" OR "Pompe à chaleur hybride" OR "Géothermie" OR "Gestion Technique du Bâtiment" OR "Matériaux bio-sourcés" OR "Ouate de cellulose" OR "Béton de chanvre" OR "Fibre de bois") -promo -soldes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Électricité : ce changement d&#39;heures creuses en novembre 2026 peut faire exploser votre facture]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.maison-travaux.fr/amenagement/electricite-ce-changement-dheures-creuses-en-novembre-2026-peut-faire-exploser-votre-facture-663791.html&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw168Xc9Or9_3lmmMhH85mrh</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.maison-travaux.fr/amenagement/electricite-ce-changement-dheures-creuses-en-novembre-2026-peut-faire-exploser-votre-facture-663791.html&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw168Xc9Or9_3lmmMhH85mrh"/>
-        <updated>2026-10-23T13:42:06.000Z</updated>
-        <summary type="html"><![CDATA[Éco-PTZ à 0 % : ces 4 détails techniques sur vos travaux peuvent vous.]]></summary>
-        <author>
-            <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Éco-PTZ à 0 % : ces 4 détails techniques sur vos travaux peuvent vous faire perdre jusqu&#39;à ...]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.maison-travaux.fr/amenagement/eco-ptz-a-0-ces-4-details-techniques-sur-vos-travaux-peuvent-vous-faire-perdre-jusqua-50-000-e-sans-prevenir-663789.html&amp;ct=ga&amp;cd=CAIyGzY1YThjMjBiMjAwZTcxN2Y6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw3F4MxH-tRVoBV2cFAjyt-v</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.maison-travaux.fr/amenagement/eco-ptz-a-0-ces-4-details-techniques-sur-vos-travaux-peuvent-vous-faire-perdre-jusqua-50-000-e-sans-prevenir-663789.html&amp;ct=ga&amp;cd=CAIyGzY1YThjMjBiMjAwZTcxN2Y6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw3F4MxH-tRVoBV2cFAjyt-v"/>
-        <updated>2026-10-23T13:42:06.000Z</updated>
-        <summary type="html"><![CDATA[Entreprise RGE : travaux réalisés par une société "reconnue garante de l'environnement" dans le bon domaine. Concrètement, pour une laine minérale ...]]></summary>
-        <author>
-            <name>Alerte Google : ("Labels éco-responsables" OR "Bâtiment durable" OR "Certification énergétique" OR "RGE" OR PassivHaus OR "Label BBC Rénovation" OR "NF Habitat HQE")</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Décarbonation de flotte : primes <b>CEE</b> et mobilité avec Hellio - Flottes Automobiles]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.flotauto.com/hellio-decarbonation-flotte/&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw2c5MSF8jZa6r2E_wQA3371</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.flotauto.com/hellio-decarbonation-flotte/&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw2c5MSF8jZa6r2E_wQA3371"/>
-        <updated>2026-10-23T09:54:07.000Z</updated>
-        <summary type="html"><![CDATA[A. B.-M. – Les primes CEE constituent un puissant levier de verdissement des flottes, dont le montant varie en fonction de la typologie des véhicules ...]]></summary>
-        <author>
-            <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bouteilles en papier : Pulpex passe du prototype à l&#39;usine industrielle en Écosse]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.graphiline.com/article/52830/bouteilles-en-papier-pulpex-passe-du-prototype-a-l-usine-industrielle-en-ecosse&amp;ct=ga&amp;cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw1MAcwicK0XDLyziOkzWi5X</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.graphiline.com/article/52830/bouteilles-en-papier-pulpex-passe-du-prototype-a-l-usine-industrielle-en-ecosse&amp;ct=ga&amp;cd=CAIyGzVlYThlODQzMTkyMjRhYjU6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw1MAcwicK0XDLyziOkzWi5X"/>
-        <updated>2026-10-23T09:42:13.000Z</updated>
-        <summary type="html"><![CDATA[Avec sa première usine écossaise, Pulpex passe du prototype à la production industrielle de bouteilles en fibre de bois et prépare désormais son ...]]></summary>
-        <author>
-            <name>Alerte Google : ("Rénovation thermique" OR "VMC Double Flux" OR "Pompe à chaleur hybride" OR "Géothermie" OR "Gestion Technique du Bâtiment" OR "Matériaux bio-sourcés" OR "Ouate de cellulose" OR "Béton de chanvre" OR "Fibre de bois") -promo -soldes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<b>CEE</b>, prix national de l&#39;électricité… Les mesures bancales du contre-budget du RN sur l&#39;énergie]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.challenges.fr/politique/en-faisant-ca-on-neconomise-rien-du-tout-cee-prix-national-de-lelectricite-les-mesures-bancales-du-contre-budget-du-rn-sur-lenergie_646526&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw1GxO0VN2mUfKRck3j7Qwjh</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.challenges.fr/politique/en-faisant-ca-on-neconomise-rien-du-tout-cee-prix-national-de-lelectricite-les-mesures-bancales-du-contre-budget-du-rn-sur-lenergie_646526&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw1GxO0VN2mUfKRck3j7Qwjh"/>
-        <updated>2026-10-23T09:09:08.000Z</updated>
-        <summary type="html"><![CDATA[Publié le 11 octobre, il s'attaque notamment aux certificats d'économies d'énergie (CEE) sous couvert de nouveaux « gains fiscaux » pour les ...]]></summary>
-        <author>
-            <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quand les Français financent sans forcément le savoir des voitures chinoises fabriquées en Espagne]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.automobile-magazine.fr/toute-l-actualite/article/53589-quand-les-francais-financent-sans-forcement-le-savoir-des-voitures-chinoises-fabriquees-en-espagne&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw0yQdL370rAp91MthWtmzZN</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.automobile-magazine.fr/toute-l-actualite/article/53589-quand-les-francais-financent-sans-forcement-le-savoir-des-voitures-chinoises-fabriquees-en-espagne&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw0yQdL370rAp91MthWtmzZN"/>
-        <updated>2026-10-23T08:45:58.000Z</updated>
-        <summary type="html"><![CDATA[... tel que le SUV Leapmotor B10 va bénéficier des aides CEE en France. Les CEE, payés par les Français, vont financer une...]]></summary>
-        <author>
-            <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Au Sénat, Daniel Gremillet reconduit rapporteur pour avis des crédits énergie ; Amel ...]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.contexte.com/fr/actualite/energie/au-senat-daniel-gremillet-reconduit-rapporteur-pour-avis-des-credits-energie-amel-gacquerre-conserve-maprimerenov_282438&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw2xBGLzFDWYdNGfa_vapTXt</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.contexte.com/fr/actualite/energie/au-senat-daniel-gremillet-reconduit-rapporteur-pour-avis-des-credits-energie-amel-gacquerre-conserve-maprimerenov_282438&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw2xBGLzFDWYdNGfa_vapTXt"/>
-        <updated>2026-10-23T06:02:30.000Z</updated>
-        <summary type="html"><![CDATA[FR Au Sénat, Daniel Gremillet reconduit rapporteur pour avis des crédits énergie ; Amel Gacquerre conserve MaPrimeRénov'. La commission des ...]]></summary>
-        <author>
-            <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arrêté modifiant les critères d&#39;éligibilité des bonifications associés aux fiches d&#39;opérations ...]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.consultations-publiques.developpement-durable.gouv.fr/arrete-modifiant-les-criteres-d-eligibilite-des-a3472.html&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw2_H4NTEEXmDnNDdiVy6WwZ</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.consultations-publiques.developpement-durable.gouv.fr/arrete-modifiant-les-criteres-d-eligibilite-des-a3472.html&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw2_H4NTEEXmDnNDdiVy6WwZ"/>
-        <updated>2026-10-23T03:01:45.000Z</updated>
-        <summary type="html"><![CDATA[123-19-1 du code de l'environnement. Le présent projet d'arrêté concerne le dispositif des certificats d'économies d'énergie (CEE) régi notamment par ...]]></summary>
-        <author>
-            <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicolas “énormément déçu” après l&#39;installation de sa pompe à chaleur]]></title>
-        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.mariefrance.fr/actualite/societe/nicolas-enormement-decu-installation-pompe-a-chaleur-10-578-euros-resultat-jai-tout-paye-de-ma-poche-bis-1303667.html&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw258iW_5H1diJG43OdFI7sW</id>
-        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.mariefrance.fr/actualite/societe/nicolas-enormement-decu-installation-pompe-a-chaleur-10-578-euros-resultat-jai-tout-paye-de-ma-poche-bis-1303667.html&amp;ct=ga&amp;cd=CAIyGzBjZTJmNTIzZDM0MTA4MjE6ZnI6ZnI6RlI6Ug&amp;usg=AOvVaw258iW_5H1diJG43OdFI7sW"/>
-        <updated>2026-10-23T03:00:27.000Z</updated>
-        <summary type="html"><![CDATA[En effet, sa pompe à chaleur air/air pouvait notamment bénéficier des certificats d'économies d'énergie (CEE), tandis que les portes ou certains ...]]></summary>
         <author>
             <name>Alerte Google : ("Aides financières rénovation" OR "MaPrimeRénov" OR "Certificats d'Économies d'Énergie" OR "CEE" OR "Éco-PTZ" OR "Prêt Avance Mutation" OR "Aides ANAH") -devis -simul</name>
         </author>
